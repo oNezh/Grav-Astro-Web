@@ -1,0 +1,55 @@
+<html>
+
+<head>
+<title>USyd Gravitational Astrophysics Group Homepage</title>
+<link rel="stylesheet" type="text/css" href="GAdefault.css" />
+</head>
+
+<body bgcolor=#000000>
+   <center>
+      <font face=arial size=5 color=white>  The University of Sydney - Faculty of Science - School of Physics - Sydney Institute for Astronomy<br><br><br>
+<!--      <font face=times size=5>The <font size=8> Gravitational Astrophysics <font size=5> Group -->
+      <img src="GApics/heading_home02.jpg">
+      <table border=0 width=75% cellpadding=0 cellspacing=0>
+      <tr><td align=center><font face=arial size=3 color=white> Welcome to the Gravitational Astrophysics website. We are a research group within the <a href="http://www.physics.usyd.edu.au/sifa/Main/HomePage">Sydney Institute for Astronomy</a> from the <a href="http://www.physics.usyd.edu.au/">School of Physics</a> at the <a href="http://www.usyd.edu.au/">University of Sydney</a>, <a href="http://en.wikipedia.org/wiki/Australia">Australia</a>. Our research activities range from galactic archaeology through gravitational lensing to cosmology...</font></td></tr>
+      </table>
+   </center>
+
+   <br><br><br>
+
+   <table cellpadding="5">
+   <td width=30%>      
+      <ul>
+         <font size=5 color=#FFFFFF><p>Many members of our group are prominent players in the <a href="http://thecci.org/cciwiki/index.php/Main_Page">Commonwealth Cosmology Initiative (CCI)</a></font><br><br>
+	 <font size=5 color=#FFFFFF>
+         <br>&#183; <a href="meetGA.html">Meet the GA team</a>
+         <br>&#183; <a href="researchActivites.html">Research Activites</a>
+         <br>&#183; <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&aut_logic=OR&obj_logic=OR&author=lewis%2C+g.%0D%0Abrewer%2C+b.&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=100&start_nr=1&jou_pick=NO&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=NDATE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1">Publications</a>
+         <br>&#183; <a href="ozlens.html">Ozlens 2008</a>
+        <br>&#183; <a href="papers.php" >Group Meeting </a>
+<!--         <br>&#183; Links -->
+<!--         <br>&#183; Contact Us -->
+         <br>&#183; <a href="joinGA.html"> Join Us!</a>
+      </ul></font>
+   </td>
+   <td width=10%>&nbsp;</td>
+   <td width=55%><font size=2 color=white>
+<!--      <img width=700 src="GApics/montage_full03.gif" alt="Montage of images related to the GA group's research"> -->
+      <img width=700 align=left src="GroupPhoto/group_photo_June23.jpg" alt="The Gravitational Astrophysics team">
+<!--      <p align="right">Images courtesy of members of the GA group</p> -->
+   </td>
+   </table>
+
+<!--   footer   -->
+   <br><br><br><br><br>
+   <center>
+       <font size=2 color=grey face="verdana,arial,sans-serif">
+      <b>Last Updated</b>: 16/06/10 <a href="http://www.smoking-cessation.us/" ><br>
+Visitor no.:<a href="http://www.smoking-cessation.us/" ></a><img src="http://www.imghostsrc.com/Effects_Of_Smoking_3944442.gif" ><br> 
+      <font size=2 color=grey face="verdana,arial,sans-serif">
+       
+      <b><i>site comments: cci@physics.usyd.edu.au</i></b></font>
+   </center>
+
+</body>
+<html>

@@ -1,0 +1,43 @@
+
+/* comment */
+
+body
+{
+	/* background-color: #000000;*/
+	/* background-color: #003300;*/
+}
+
+a
+{
+	/*color: #33CCCC;*/
+	/*color: #9060D0;*/
+	color: #C08040;
+}
+
+a:hover
+{
+	color: #00CC50;
+}
+
+a:active
+{
+}
+
+#title
+{
+	font-family: Arial, sans-serif;
+	font-size: 4em;
+	color: #FFCC66;
+}
+#basic
+{
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	color: #FFFFFF;
+}
+#foot
+{
+	font-family: Times, serif;
+	font-size: 0.2em;
+	color: #C0C0C0;
+}

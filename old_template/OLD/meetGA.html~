@@ -1,0 +1,319 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>USyd Gravitational Astrophysics Group Homepage - Meet the group</title>
+  <link rel="stylesheet" type="text/css" href="GAdefault.css">
+</head>
+<body bgcolor="#004000">
+<font color="#ffffff" face="arial" size="3">
+<!--   Heading and blurb   --> </font>
+<center><font color="#ffffff" face="arial" size="3"> <font
+ color="#ffffff" face="arial" size="3"> The University of Sydney -
+Faculty of Science - School of Physics - Sydney Institute for Astronomy</font>
+<img src="GApics/logo_hline03.jpg"><br>
+<font color="#ffffff" face="times" size="8">Meet the team<br>
+<br>
+</font>
+<table border="0" cellpadding="0" cellspacing="0" width="70%">
+  <tbody>
+    <tr>
+      <td align="center"><font color="#ffffff" face="arial" size="3">
+The short blurbs here should give you a taste of what each of us does
+with our time. If you want to know more, you should have a look at our
+research and personal webpages </font></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+</font></center>
+<font color="#ffffff" face="arial" size="3"><!--   Main section   --><!-- page table -->
+<table border="0" cellpadding="0" cellspacing="20" height="100%"
+ width="100%">
+  <tbody>
+    <tr>
+      <td align="right" valign="top" width="95"> <font face="arial"><a
+ href="index.html">Home</a></font><br>
+      <br>
+      <br>
+      <br>
+      <br>
+&middot; <a href="meetGA.html">Meet the GA team</a><br>
+      <br>
+      <img src="GApics/side_seahorse.gif" alt="" border="0" width="95"><br>
+      <br>
+&middot; <a href="researchActivites.html">Research Activites</a><br>
+      <br>
+      <img src="GApics/side_richard.jpg" alt="" border="0" width="95"><br>
+      <br>
+&middot; <a
+ href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&amp;db_key=PRE&amp;qform=AST&amp;arxiv_sel=astro-ph&amp;arxiv_sel=cond-mat&amp;arxiv_sel=cs&amp;arxiv_sel=gr-qc&amp;arxiv_sel=hep-ex&amp;arxiv_sel=hep-lat&amp;arxiv_sel=hep-ph&amp;arxiv_sel=hep-th&amp;arxiv_sel=math&amp;arxiv_sel=math-ph&amp;arxiv_sel=nlin&amp;arxiv_sel=nucl-ex&amp;arxiv_sel=nucl-th&amp;arxiv_sel=physics&amp;arxiv_sel=quant-ph&amp;arxiv_sel=q-bio&amp;sim_query=YES&amp;ned_query=YES&amp;aut_logic=OR&amp;obj_logic=OR&amp;author=lewis%2C+g.%0D%0Abrewer%2C+b.&amp;object=&amp;start_mon=&amp;start_year=&amp;end_mon=&amp;end_year=&amp;ttl_logic=OR&amp;title=&amp;txt_logic=OR&amp;text=&amp;nr_to_return=100&amp;start_nr=1&amp;jou_pick=NO&amp;ref_stems=&amp;data_and=ALL&amp;group_and=ALL&amp;start_entry_day=&amp;start_entry_mon=&amp;start_entry_year=&amp;end_entry_day=&amp;end_entry_mon=&amp;end_entry_year=&amp;min_score=&amp;sort=NDATE&amp;data_type=SHORT&amp;aut_syn=YES&amp;ttl_syn=YES&amp;txt_syn=YES&amp;aut_wt=1.0&amp;obj_wt=1.0&amp;ttl_wt=0.3&amp;txt_wt=3.0&amp;aut_wgt=YES&amp;obj_wgt=YES&amp;ttl_wgt=YES&amp;txt_wgt=YES&amp;ttl_sco=YES&amp;txt_sco=YES&amp;version=1">Publications</a><br>
+      <br>
+      <img src="GApics/side_CMD02.jpeg" alt="" border="0" width="95"><br>
+      <br>
+&middot; <a href="ozlens.html">Ozlens 2008</a><br>
+      <br>
+      <img src="GApics/side_caustic.jpg" alt="" border="0" width="95"><br>
+      <br>
+&middot; <a href="joinGA.html"> Join Us!</a><br>
+<!--         <br>&#183; Awards and Press Releases -->
+<!--         <br>&#183; Links --><!--         <br>&#183; Contact Us -->
+      </td>
+      <td background="GApics/logo_vline03.jpg" width="25"><br>
+      </td>
+      <td valign="top" width="700"> <img
+ style="width: 857px; height: 643px;" src="GApics/potrait_office07.jpg"
+ alt="The office"><br>
+      <br>
+      <table border="0" cellpadding="0" cellspacing="20" width="95%">
+        <tbody>
+          <tr height="250">
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Geraint is the head of the Gravitational Astrophysics Group at USyd.
+When not asleep at the telescope, his research includes cosmology,
+general relativity, gravitational lensing, galactic cannibalism and
+basically anything else that interests him. <br>
+            <br>
+            <a
+ href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=GeraintLewis">+
+More Research Info</a><br>
+            <a href="http://www.physics.usyd.edu.au/%7Egfl">+ Home Page</a></font></td>
+            <td><img src="GApics/potrait_geraint02.JPG"
+ alt="Geraint Lewis" align="right" border="0" height="280"></td>
+          </tr>
+<!--	<tr height=280>
+	   <td><img border="0" height=280 align=left src="GApics/potrait_richard02.jpg" alt="Richard Lane"></td>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Richard's research focuses on the kinematics of star clusters, using the dynamics of these clusters to infer the quantity of dark matter they contain, and for answering the question "do we understand how gravity truly behaves". He also studies the evolution of the Milky Way through observation of dwarf satellite galaxies. Interactions between a satellite and its host produce tidal debris. Analysing this debris can uncover the origins of the material in different parts of such a system and will eventually reveal a unified galactic evolutionary model.  
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=344.0">+ <!--Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~rlane">+ Home Page</a></td>
+	</tr> -->
+<!--	<tr height=280>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Madhura studies theoretical gravitational lensing in various regimes. She is creating a ray-tracing code that is applied to N-body simulations of cosmological mass distributions; the results are used to understand cosmic shear and predict supernovae magnification biases. She is also making self-consistent comparisons of the galaxy cluster subhalo mass function between simulations and lensing data. Her research extends to analysing the lensing effect on the cosmological redshift drift experiment. --><!--	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=782.0">+ <!--Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~madhura">+ Home Page</a></td>
+<!--	   <td><img border="0" height=280 align=right src="GApics/potrait_madhura06.jpg" alt="Madhura <!--Killedar"></td> -->
+          <tr height="280">
+            <td><img src="GApics/potrait_peter01.jpg" alt="Peter Dobbie"
+ align="left" border="0" height="280"></td>
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Peter is working on numerical simulations of turbulent disk accretion
+and magnetised outflows around black holes. These objects can produce
+spectacular jets as well as X-ray and gamma-ray emission in the nuclei
+of active galaxies and smaller-scale accreting sources such as X-ray
+binaries. They are common in the universe but we have much to learn
+about the physical processes that drive them. <br>
+            <br>
+            <a
+ href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=PeterDobbie">+
+Contact Details</a><br>
+            <a href="http://www.physics.usyd.edu.au/%7Epd">+ Home Page</a></font></td>
+          </tr>
+          <tr height="280">
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Juliana is a PhD student in theoretical cosmology. Her main area of
+interest is large scale structure, in particular how its rate of growth
+can be measured from amplifications in the power spectrum induced by
+the peculiar motion of galaxies. A measurement of the growth rate of
+structure formation would allow us to distinguish between a number of
+proposed modifications to general relativity with the aim of
+understanding the origin of cosmic acceleration. Juliana has also
+investigated the ability of an inhomogenous cosmological model, such as
+the Timescape Cosmology, to fit the currently available observational
+data. She has found that the Timescape Cosmology is generally a much
+poorer fit to the Hubble diagram when compared to the standard
+cosmological model. <br>
+            <br>
+            <a
+ href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=JulianaKwan">+
+Contact Details</a><br>
+            </font></td>
+            <td><img src="GApics/potrait_juliana01.jpeg"
+ alt="Juliana Kwan" align="right" border="0" height="280"></td>
+          </tr>
+          <tr height="280">
+            <td><img src="GApics/potrait_scott01.jpg" alt="Scott Wales"
+ align="left" border="0" height="280"></td>
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Scott is a computational physicist currently involved in modelling the
+effects of dark energy alongside Matt. Although there is thought to be
+much more dark energy than dark or baryonic matter in the universe
+there
+is a poor understanding of how it might behave. Scott's other interests
+include general relativity and quantum physics. <br>
+            <br>
+            <a
+ href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=695.0">+
+Contact Details</a><br>
+            </font></td>
+          </tr>
+          <tr height="280">
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Hugh works in computational gravitational microlensing; he has
+implemented a supercomputer version of a microlensing simulation tool
+so that it uses parallelism, distributed memory and file caching. Using
+this he is investigating various real lensed quasars to test models of
+quasar structure, lens galaxy structure, and the properties of dark
+matter. This is achieved by running simulations, getting data, and
+testing them against observations, or making predictions as to future
+observations. The work is being published as results become available,
+the new supercomputer simulation program has already been described in
+an article in New Astronomy journal. <br>
+            <br>
+            <a
+ href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=692.0">+
+Contact Details</a><br>
+            </font></td>
+            <td><img src="GApics/potrait_hugh01.jpg" alt="Hugh Garsden"
+ align="right" border="0" height="280"></td>
+          </tr>
+          <tr height="280">
+            <td><img src="GApics/potrait_miro01.jpg"
+ alt="Miroslav Micic" align="left" border="0" height="280"></td>
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Miroslav is running and analyzing cosmological N-body simulations
+looking for a connections
+between the formation and evolution of dark matter halos, galaxies and
+supermassive black
+holes. He is also studying the influence of gravitational recoil on
+population of intermediate
+mass black holes in Milky Way. Also, he is trying to untangle the
+formation history of the
+substructure in Local Group of galaxies. <br>
+            <br>
+            <a
+ href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=791.0">+
+Contact Details</a><br>
+            </font></td>
+          </tr>
+          <tr height="280">
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Holly is studying the formation of the large scale structure of the
+universe. Currently, she is looking at how dark matter structure
+influences the spins of galaxies and using N-body simulations to do
+cosmology. She is also interested in theories of gravity and dark
+energy. Holly is a Sagittarius and out of all the fundamental forces,
+her favorite is gravity. <br>
+            <br>
+            <a
+ href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=807.0">+
+Contact Details</a><br>
+            </font></td>
+            <td><img src="GroupPhoto/holly.jpg" alt="Holly Trowland"
+ align="right" border="0" height="280"></td>
+          </tr>
+          <tr height="280">
+            <td><img src="GApics/potrait_tom07.jpg" alt="Tom McCavana"
+ align="left" border="0" height="280"></td>
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Tom is working on the growth of supermassive black holes and their role
+in galaxy evolution. His research involves the use of N-body
+simulations to quantify the effectiveness of processes like dynamical
+friction, three body scattering and gravitational recoil at various
+stages in the history of the universe. At present there is a multitude
+of formation theories for these massive bodies which appear to lie at
+the heart of all galaxies, however little distinction can be made due
+to a lack of observable evidence. <br>
+            <br>
+            <a
+ href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=848.0">+
+Contact Details</a><br>
+            </font></td>
+          </tr>
+          <tr height="280">
+            <td width="50%"><font color="#ffffff" face="arial" size="3">Prajwal
+is studying the evolution of Galaxy through Galactic
+Archaeology .&nbsp; He is currently looking at the behaviour of the
+stellar halo of our own Galaxy. His work will address the quest of
+whether halo is rotating and/or counter-rotating with respect to the
+galactic disk. Will there any smooth component of halo that remain
+behind if all the known stellar streams are masked?, is the next
+question he will be addressing soon. &nbsp; <br>
+            <br>
+            <a
+ href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=924.0">+
+Contact Details</a><br>
+            <a href="http://www.physics.usyd.edu.au/%7Eprajwal">+ Home
+Page</a></font></td>
+            <td><img src="GApics/potrait_prajwal01.jpg"
+ alt="Prajwal Kafle" align="right" border="0" height="280"></td>
+          </tr>
+          <tr height="280">
+            <td><img src="GApics/potrait_foivos.jpg" alt="Foivos"
+ align="left" border="0" height="280"></td>
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Foivos is trying to understand a bit more, what's this thing called
+dark matter. His research focuses on the analysis of kinematics of
+Dwarf spheroidal galaxies and globular clusters, through dynamical
+theories and Bayesian statistics methods. He is also passionately and
+incurably in love with advanced mathematics and his natural
+environment: liquid space, and feels gratitude for he found plenty of
+both in Sydney. <br>
+            <br>
+            <a
+ href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=FoivosDiakogiannis">+
+Contact Details</a><br>
+            </font></td>
+          </tr>
+          <tr height="280">
+            <td width="50%"><font color="#ffffff" face="arial" size="3">Anthony
+is a student at Macquarie University working with Geraint on data from
+the Pan-Andromeda Archaeological Survey (PAndAS). His PhD research is
+concerned with developing a robust, Bayesian algorithm capable of
+locating the tip of the red giant branch with consistant accuracy of
+better than 0.05 magnitudes. This is now up and running and in the
+process of being applied to the various substructures in the M31 halo
+in an effort to accurately obtain their distances.
+            </font></td>
+            <td><img src="GroupPhoto/anthony.jpg" alt="Prajwal Kafle"
+ align="right" border="0" height="280"></td>
+          </tr>
+          <tr height="280">
+            <td><img src="GApics/potrait_magda.jpg"
+ alt="Magda Guglielmo" align="left" border="0" height="280"></td>
+            <td width="50%"><font color="#ffffff" face="arial" size="3">
+Magda Guglielmo is a postgraduate student and has recently joined our
+group. <br>
+            <br>
+            <a
+ href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=MagdaGugliemo">+
+Contact Details</a><br>
+            </font></td>
+          </tr>
+<!--	<tr height=280> -->
+<!--	   <td width=50%><font face=arial size=3 color=#FFFFFF> --><!--	   Brendon studies Gravitational Lensing, Bayesian Inference and Asteroseismology. He also dabbles in statistical mechanics and random modelling of anything interesting such as cricket. -->
+<!--	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=259.0">+ Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~brewer">+ Home Page</a></td> --><!--	   <td><img border="0" height=280 align=right src="GApics/potrait_brendon02.JPG" alt="Brendon Brewer"></td> -->
+<!--	</tr> --><!--		   Pim is a research student from Nijmegen, The Netherlands, joining the Gravitational Astrophysics Group for one year. His current research includes the influence of several Dark Energy models on Cosmic Horizons. He is also interested in soccer and likes to eat Droste chocolate. -->
+<!--	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=692.0">+ Contact Details</a><br></td> --><!--	   <td><img border="0" height=280 align=right src="GApics/potrait_pim02.jpg" alt="Pim Van Oirschot"></td> -->
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <img src="GApics/logo_hline03.jpg"> <font color="#ffffff"
+ face="arial" size="3"> <br>
+      <p>A couple of other people associated with our group:</p>
+<!--	 <font align="left" ><b><u>Honours Students:</u></b></font>  -->
+<!--	     <br>&#183; Nikhul Patel  --><!--	     <br><br>  --> <font
+ align="left"><b><u>Collaborators:</u></b></font> <br>
+&middot; <font color="#ffff00"><a
+ href="http://www.physics.usyd.edu.au/%7Emadhura">Madhura Killedar</a></font>&nbsp;
+      <br>
+&middot; <font color="#ffff00"><a
+ href="http://www.physics.usyd.edu.au/%7Erlane">Richard Lane</a></font>&nbsp;
+      <br>
+&middot; <font color="#ffff00">Matt Francis</font> <br>
+&middot; <font color="#ffff00">Blair Conn</font> <br>
+&middot; <font color="#ffff00">Paul Lasky</font> </font> </td>
+    </tr>
+  </tbody>
+</table>
+<!--   footer   --> <br>
+<br>
+<br>
+<br>
+<br>
+</font>
+<center><font color="#ffffff" face="arial" size="3"> <font
+ color="#999999" face="verdana,arial,sans-serif" size="2"> <b>Last
+Updated</b>: 03/12/10<br>
+<b><i>site comments: cci_at_physics.usyd.edu.au </i></b></font> </font></center>
+</body>
+</html>

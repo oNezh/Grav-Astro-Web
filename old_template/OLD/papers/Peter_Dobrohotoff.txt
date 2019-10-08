@@ -1,0 +1,4 @@
+2011-01-18|Hanny's Voorwerp: a nuclear starburst in IC2497|http://arxiv.org/abs/1101.2784|1
+2011-01-18|Status of GDL - GNU Data Language|http://arxiv.org/abs/1101.0679|1
+2011-01-04|Report on Texas Symposium on Relativistic Astrophysics, Heidelberg, Germany, 6-10 Dec 2010|http://www.mpi-hd.mpg.de/texas2010/|1
+2010-11-16|The impact of numerical viscosity in SPH simulations of galaxy clusters|http://arxiv.org/abs/1010.3378|1

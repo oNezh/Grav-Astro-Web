@@ -1,0 +1,205 @@
+<html>
+
+<head>
+<title>USyd Gravitational Astrophysics Group Homepage - Meet the group</title>
+<link rel="stylesheet" type="text/css" href="GAdefault.css" />
+</head>
+
+<body bgcolor=#004000>
+<font face=arial size=3 color=#FFFFFF>
+<!--   Heading and blurb   -->
+   <center>
+      <font face=arial size=3 color=#FFFFFF>  The University of Sydney - Faculty of Science - School of Physics - Sydney Institute for Astronomy</font>
+      <img src="GApics/logo_hline03.jpg"><br>
+      <font face=times color=#FFFFFF size=8>Meet the team</font>
+      <table border=0 width=70% cellpadding=0 cellspacing=0>
+         <tr><td align=center><font face=arial color=#FFFFFF size=3> The short blurbs here should give you a taste of what each of us does with our time. If you want to know more, you should have a look at our research and personal webpages </font></td></tr>
+      </table>
+      <br><br>
+   </center>
+
+
+   <!--   Main section   -->
+   <!-- page table -->
+   <table border="0" width=100% height=100% cellspacing="20" cellpadding=0>
+      <tr>
+      <td align=right valign=top width=95>
+         <font face=arial><a href="index.html">Home</a></font><br><br><br><br>
+         <br>&#183; <a href="meetGA.html">Meet the GA team</a><br>
+	 <br><img border="0" width=95 src="GApics/side_seahorse.gif" alt=""><br>
+         <br>&#183; <a href="researchActivites.html">Research Activites</a><br>
+	 <br><img border="0" width=95 src="GApics/side_richard.jpg" alt=""><br>
+         <br>&#183; <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&aut_logic=OR&obj_logic=OR&author=lewis%2C+g.%0D%0Abrewer%2C+b.&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=100&start_nr=1&jou_pick=NO&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=NDATE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1">Publications</a><br>
+	 <br><img border="0" width=95 src="GApics/side_CMD02.jpeg" alt=""><br>
+         <br>&#183; <a href="ozlens.html">Ozlens 2008</a><br>
+	 <br><img border="0" width=95 src="GApics/side_caustic.jpg" alt=""><br>
+         <br>&#183; <a href="joinGA.html"> Join Us!</a><br>
+<!--         <br>&#183; Awards and Press Releases -->
+<!--         <br>&#183; Links -->
+<!--         <br>&#183; Contact Us -->
+      </td>
+
+      <td background="GApics/logo_vline03.jpg" width=25></td>
+      <td valign=top width=700>
+      <img width=900 src="GApics/potrait_office07.jpg"  alt="The office"><br><br>
+
+      <table border=0 width=95% cellpadding=0 cellspacing="20">
+	<tr height=250>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Geraint is the head of the Gravitational Astrophysics
+     Group at USyd. When not asleep at the telescope, his
+     research includes cosmology, general relativity,
+     gravitational lensing, galactic cannibalism and basically
+     anything else that interests him.
+	   <br><br><a href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=GeraintLewis">+ More Research Info</a><br><a href="http://www.physics.usyd.edu.au/~gfl">+ Home Page</a></td>
+	   <td><img border="0" height=280 align=right src="GApics/potrait_geraint02.JPG" alt="Geraint Lewis"></td>
+	</tr>
+
+
+	<tr height=280>
+	   <td><img border="0" height=280 align=left src="GApics/potrait_richard02.jpg" alt="Richard Lane"></td>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Richard's research focuses on observational data of dwarf satellite
+galaxies in the Local Group. These data reveal important information
+regarding gravitational interactions between the satellite and its host
+galaxy, through analysis of tidal debris thrown off during these
+mergers. This material exhibits properties differing from that of the
+host, and in theory, its analysis can uncover much about the origins of
+the material in different parts of such a system. Further research in
+this field will eventually reveal a unified galactic evolutionary model.
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=344.0">+ Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~rlane">+ Home Page</a></td>
+	</tr>
+
+	<tr height=280>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Madhura studies theoretical gravitational lensing in various regimes. She is creating a ray-tracing code that is applied to N-body simulations of cosmological mass distributions; the results are used to understand cosmic shear and predict supernovae magnification biases. She is also making self-consistent comparisons of the galaxy cluster subhalo mass function between simulations and lensing data. Her research extends to analysing the lensing effect on the cosmological redshift drift experiment.
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=782.0">+ Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~madhura">+ Home Page</a></td>
+	   <td><img border="0" height=280 align=right src="GApics/potrait_madhura06.jpg" alt="Madhura Killedar"></td>
+	</tr>
+
+	<tr height=280>
+	   <td><img border="0" height=280 align=left src="GApics/potrait_peter01.jpg" alt="Peter Dobbie"></td>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Peter is working on numerical simulations of turbulent disk  
+accretion and magnetised outflows around black holes.  These objects  
+can produce spectacular jets as well as X-ray and gamma-ray emission  
+in the nuclei of active galaxies and smaller-scale accreting sources  
+such as X-ray binaries.  They are common in the universe but we have  
+much to learn about the physical processes that drive them.
+	   <br><br><a href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=PeterDobbie">+ Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~pd">+ Home Page</a></td>
+	</tr>
+
+	<tr height=280>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Juliana is a PhD student working in fundamental cosmology. Her current research involves performing model comparisons between inhomogeneous cosmologies such as the Fractal Bubble model and the current cosmological paradigm using existing observational data. 
+	   <br><br><a href="http://www.physics.usyd.edu.au/cgi-bin/ioa_people.cgi?name=JulianaKwan">+ Contact Details</a><br></td>
+	   <td><img border="0" height=280 align=right src="GApics/potrait_juliana01.jpeg" alt="Juliana Kwan"></td>
+	</tr>
+
+	<tr height=280>
+	   <td><img border="0" height=280 align=left src="GApics/potrait_scott01.jpg" alt="Scott Wales"></td>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Scott is a computational physicist currently involved in modelling the
+effects of dark energy alongside Matt. Although there is thought to be
+much more dark energy than dark or baryonic matter in the universe there
+is a poor understanding of how it might behave. Scott's other interests
+include general relativity and quantum physics.
+
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=695.0">+ Contact Details</a><br></td>
+	</tr>
+
+	<tr height=280>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Hugh has just started his PhD and is working on a parallel implementation of some well-known gravitational lensing software.
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=692.0">+ Contact Details</a><br></td>
+	   <td><img border="0" height=280 align=right src="GApics/potrait_hugh01.jpg" alt="Hugh Garsden"></td>
+	</tr>
+
+
+	<tr height=280>
+	   <td><img border="0" height=280 align=left src="GApics/potrait_miro01.jpg" alt="Miroslav Micic"></td>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Miroslav is running and analyzing cosmological N-body simulations looking for a connections
+between the formation and evolution of dark matter halos, galaxies and supermassive black
+holes. He is also studying the influence of gravitational recoil on population of intermediate
+mass black holes in Milky Way. Also, he is trying to untangle the formation history of  the
+substructure in Local Group of galaxies.
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=791.0">+ Contact Details</a><br></td>
+	</tr>
+
+
+	<tr height=280>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Holly is studying the formation of the large scale structure of the universe. Currently, she is looking at how dark matter structure influences the spins of galaxies and using N-body simulations to do cosmology. She is also interested in theories of gravity and dark energy. Holly is a Sagittarius and out of all the fundamental forces, her favorite is gravity.
+
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=807.0">+ Contact Details</a><br></td>
+	   <td><img border="0" height=280 align=right src="GApics/potrait_holly03.jpg" alt="Holly Trowland"></td>
+	</tr>
+
+
+	<tr height=280>
+	   <td><img border="0" height=280 align=left src="GApics/potrait_tom07.jpg" alt="Tom McCavana"></td>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+	   Tom is working on the growth of supermassive black holes and their role in galaxy evolution. His research involves the use of N-body simulations to quantify the effectiveness of processes like dynamical friction, three body scattering and gravitational recoil at various stages in the history of the universe. At present there is a multitude of formation theories for these massive bodies which appear to lie at the heart of all galaxies, however little distinction can be made due to a lack of observable evidence.
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=848.0">+ Contact Details</a><br></td>
+	</tr>
+
+
+
+	<tr height=280>
+	   <td width=50%><font face=arial size=3 color=#FFFFFF>
+Prajwal is studying the evolution of Galaxy through Galactic
+Archaeology . He will be looking at the chemical abundances in
+million nearby stars to generate a complete scenario of what might
+have happened billion years ago during the formation of Galaxy.
+
+	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=924.0">+ Contact Details</a><br></td>
+	   <td><img border="0" height=280 align=right src="GApics/potrait_prajwal01.jpg" alt="Prajwal Kafle"></td>
+
+	</tr>
+
+
+
+
+<!--	<tr height=280> -->
+<!--	   <td width=50%><font face=arial size=3 color=#FFFFFF> -->
+<!--	   Brendon studies Gravitational Lensing, Bayesian Inference and Asteroseismology. He also dabbles in statistical mechanics and random modelling of anything interesting such as cricket. -->
+<!--	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=259.0">+ Contact Details</a><br><a href="http://www.physics.usyd.edu.au/~brewer">+ Home Page</a></td> -->
+<!--	   <td><img border="0" height=280 align=right src="GApics/potrait_brendon02.JPG" alt="Brendon Brewer"></td> -->
+<!--	</tr> -->
+
+<!--		   Pim is a research student from Nijmegen, The Netherlands, joining the Gravitational Astrophysics Group for one year. His current research includes the influence of several Dark Energy models on Cosmic Horizons. He is also interested in soccer and likes to eat Droste chocolate. -->
+<!--	   <br><br><a href="http://fmx01whs.ucc.usyd.edu.au:8080/physics/staff_details.jsp?ID=692.0">+ Contact Details</a><br></td> -->
+<!--	   <td><img border="0" height=280 align=right src="GApics/potrait_pim02.jpg" alt="Pim Van Oirschot"></td> -->
+
+
+	 </table>
+
+	 <br><br>
+	 <img src="GApics/logo_hline03.jpg">
+	 <font face=arial size=3 color=#FFFFFF>
+	 <br><p>A couple of other people associated with our group:</p>
+<!--	 <font align="left" ><b><u>Honours Students:</u></b></font>  -->
+<!--	     <br>&#183; Nikhul Patel  -->
+<!--	     <br><br>  -->
+ 	 <font align="left" ><b><u>Collaborators:</u></b></font>
+ 	     <br>&#183; <font color=#FFFF00>Matt Francis</font>
+ 	     <br>&#183; <font color=#FFFF00>Blair Conn</font>
+ 	     <br>&#183; <font color=#FFFF00>Paul Lasky</font>
+	 </font>
+      </td>
+      </tr>
+   </table>
+
+
+<!--   footer   -->
+   <br><br><br><br><br>
+   <center>
+      <font size=2 color=#999999 face="verdana,arial,sans-serif">
+      <b>Last Updated</b>: 15/06/10<br>
+      <b><i>site comments: cci_at_physics.usyd.edu.au </i></b></font>
+   </center>
+
+</body>
+
+<html>

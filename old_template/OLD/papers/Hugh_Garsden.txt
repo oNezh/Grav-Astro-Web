@@ -1,0 +1,11 @@
+2011-10-11|A Wavelet Exploration of the Q0957+561A,B Brightness Record|http://adsabs.harvard.edu/abs/1999ApJ...514..598S|0
+2011-09-20|A method of detecting radio transients|http://adsabs.harvard.edu/abs/2010MNRAS.409..808F|1
+2011-07-19|Astrophysical Supercomputing with GPUs: Critical Decisions for Early Adopters|http://adsabs.harvard.edu/abs/2011PASA...28...15F|1
+2011-06-28|Scientific Visualization in Astronomy: Towards the Petascale Astronomy Era|http://adsabs.harvard.edu/abs/2011PASA...28..150H|1
+2011-05-31|The Mass of the Black Hole in Arp 151 from Bayesian Modeling of Reverberation Mapping Data|http://adsabs.harvard.edu/abs/2011ApJ...733L..33B|1
+2011-04-12|Zooming into the broad line region of the gravitationally lensed quasar QSO 2237 + 0305 = the Einstein Cross. III. Determination of the size and structure of the C iv and C iii] emitting regions using microlensing|http://adsabs.harvard.edu/abs/2011A%26A...528A.100S|1
+2011-03-22|First evidence of a gravitational lensing-induced echo in gamma rays with Fermi LAT|http://adsabs.harvard.edu/abs/2011A%26A...528L...3B|1
+2011-02-15|X-ray microlensing in the quadruply lensed quasar Q2237+0305|http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2011.18196.x/pdf|1
+2011-01-25|COSMOGRAIL: the COSmological MOnitoring of GRAvItational Lenses IX. Time delays and N-body realisations of the lens in HE 0435-1223|http://adsabs.harvard.edu/abs/2010arXiv1009.1473C|1
+2010-11-16|A Visual Guide to Planetary Microlensing|http://arxiv.org/abs/1011.2975|1
+2011-01-11|A Compact Early-type Galaxy at z = 0.6 Under a Magnifying Lens: Evidence For Inside-out Growth|http://adsabs.harvard.edu/abs/2010arXiv1011.0993A0|1

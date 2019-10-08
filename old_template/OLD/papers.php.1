@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Grav Astro Group Meeting: Discussion Papers</title>
+<style type='text/css'>
+body,table,th,td
+{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 10pt;
+}
+</style>
+</head>
+<body>
+<h3>Grav Astro Group Meeting: Discussion Papers</h3>
+<?php
+
+if ($handle = opendir('papers'))
+{
+  while (false !== ($file = readdir($handle)))
+  {
+    if (preg_match("/^(.+)\.txt$/", $file, $m))
+    {
+      echo "{$m[1]}<br>\n";
+      echo "<table border='1' cellpadding='5' cellspacing='0'>\n";
+      $lines = file("papers/{$file}");
+      foreach($lines as $line)
+      {
+        $fields = explode('|', $line);
+        $bgcolor = ($fields[3] != 0) ? '#f0fff0' : '#fff8dc';
+        echo "<tr bgcolor='{$bgcolor}'><td>{$fields[0]}</td><td><a href='{$fields[2]}'>{$fields[1]}</a></td></tr>\n";
+      }
+      echo "</table>\n";
+    }
+  }
+  closedir($handle);
+}
+
+?>
+</table>
+<!--
+<p>To list your papers, create a "pipe-separated" file:
+/import/www/GravAst/papers/&lt;your_name&gt;.txt</p>
+
+<p>The fields are:</p>
+<ul>
+<li>date (YYYY-MM-DD) you first brought the paper to a group meeting</li>
+<li>title of paper (authors if you like)</li>
+<li>url so we can find it on the web</li>
+<li>a 0 or a 1 to indicate if you have presented it to the group.</li>
+</ul>
+
+<p>Have a look at:<br>
+/import/www/GravAst/papers/Peter_Dobrohotoff.txt<br>
+for a template.</p>
+-->
+</body>
+</html>
+

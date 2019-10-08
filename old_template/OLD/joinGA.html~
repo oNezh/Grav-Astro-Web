@@ -1,0 +1,160 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>USyd Gravitational Astrophysics Group Homepage - Join Us!</title>
+  <link rel="stylesheet" type="text/css" href="GAdefault.css">
+</head>
+<body bgcolor="#003300">
+<font color="#ffffff" face="arial" size="3">
+<!--   Heading and blurb   --> </font>
+<center><font color="#ffffff" face="arial" size="3"> <font
+ color="#ffffff" face="arial" size="3"> The University of Sydney -
+Faculty of Science - School of Physics - Sydney Institute for Astronomy</font><br>
+<br>
+<font color="#ffffff" face="arial" size="8">Join us!</font><br>
+<table border="0" cellpadding="0" cellspacing="0" width="70%">
+  <tbody>
+    <tr>
+      <td align="center"><font color="#ffffff" face="arial" size="3">
+ Are you interested in dark energy, lensing, the Milky Way galaxy, Bayesian
+statistics, think we're a good looking bunch, want an excuse to work
+within walking distance of $6 Thai? Look no further ...</font></td>
+    </tr>
+  </tbody>
+</table>
+</font></center>
+<font color="#ffffff" face="arial" size="3"> <br>
+<br>
+<!--   Main section   --><!--page table -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+
+      <td align="right" valign="top" width="95">
+               <font face=arial><a href="index.html">Home</a></font><br><br><br><br>
+         <br>&#183; <a href="meetGA.html">Meet the GA team</a><br>
+	 <br><img border="0" width=95 src="GApics/side_seahorse.gif" alt=""><br>
+         <br>&#183; <a href="researchActivites.html">Research Activites</a><br>
+	 <br><img border="0" width=95 src="GApics/side_richard.jpg" alt=""><br>
+         <br>&#183; <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&aut_logic=OR&obj_logic=OR&author=lewis%2C+g.%0D%0Abrewer%2C+b.&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=100&start_nr=1&jou_pick=NO&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=NDATE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1">Publications</a><br>
+	 <br><img border="0" width=95 src="GApics/side_CMD02.jpeg" alt=""><br>
+         <br>&#183; <a href="ozlens.html">Ozlens 2008</a><br>
+	 <br><img border="0" width=95 src="GApics/side_caustic.jpg" alt=""><br>
+         <br>&#183; <a href="joinGA.html"> Join Us!</a><br>
+<!--         <br>&#183; Awards and Press Releases -->
+<!--         <br>&#183; Links -->
+<!--         <br>&#183; Contact Us -->
+      </td>
+      <td background="GApics/logo_vline02.jpg" width="30"><br>
+      </td>
+      <td valign="top" width="700"> <font color="#ffffff" face="arial"
+ size="4"> As you can see, the Gravitational Astrophysics group
+undertakes a diverse range of research projects. Below we list some of
+the projects currently on offer. If you are interested in joining the
+group, please contact us for further information:<br>
+      </font><br>
+      <font color="#ffffff" face="arial" size="4">
+      <ul>
+        <ul>
+          <li><span style="font-weight: bold;">Simulating the Cosmos: </span><small>Cosmologists
+regularly simulate large chunks of the universe within a computer,
+watching how the forces of gravity build up the galaxies we see around
+us today. There are several projects available in this area, including
+the development of techniques to compare&nbsp; the structure in
+synthetic universes to the observed cosmos, and the development of new
+approaches to the inclusion of the complex physics that governs the
+formation of the first stars. The projects would utilise supercomputer
+environments to provide extremely detailed cosmological models.</small></li>
+        </ul>
+      </ul>
+      </font><br>
+      <font color="#ffffff" face="arial" size="4">
+      <ul>
+        <ul>
+          <li><span style="font-weight: bold;">Fundamental Cosmology: </span><small>This
+project involves looking at the meaning and the nature of expanding
+space. Couched in the language of Einstein's general relativity, you
+will examine the various forms of the cosmological model, and what
+these imply for the motions of light rays and observers. The group is
+beginning a new look at inhomogeneous cosmologies and whether the
+dominant "dark energy" component is little more than a mirage.<br>
+            </small></li>
+        </ul>
+      </ul>
+      </font><br>
+      <font color="#ffffff" face="arial" size="4">
+      <ul>
+        <ul>
+          <li><span style="font-weight: bold;"><span
+ style="font-weight: bold;">Gravitational Lensing: </span></span><small>The
+deflection of light by massive bodies is a key prediction of Einstein's
+theory of relativity, and gravitational lensing has become a very
+important probe on the distribution of matter. Several projects are
+available in this area, including the development of new and novel
+techniques to reconstruct the true form of a gravitaitonally lensed
+source (and ultimately to reveal the distribution of dark matter), as
+well as simulating the gravitational lensing effect of clusters and
+superclusters of galaxies. <br>
+            </small></li>
+        </ul>
+      </ul>
+      </font><br>
+      <font color="#ffffff" face="arial" size="4">
+      <ul>
+        <ul>
+          <li><span style="font-weight: bold;"><span
+ style="font-weight: bold;">Gravitational Microlensing: </span></span><small>On
+the smallest scales, galaxies are made up of compact objects, such as
+stars, planets and black holes. These can induce their own complex
+gravitational lensing signature which can be used to probe the extreme
+environments of distant quasars. In this project, you will use
+"raytracing" to recreate the effects of gravitational microlensing, and
+consider its influence on the light we receive from the distant
+universe. </small><br>
+          </li>
+        </ul>
+      </ul>
+      </font><br>
+      <font color="#ffffff" face="arial" size="4">
+      <ul>
+        <ul>
+          <li><span style="font-weight: bold;"><span
+ style="font-weight: bold;">Galactic Cannibalism: </span></span><small>It's
+an unfortunate fact of the universe, but big galaxies got big through
+the accretion of smaller systems. This "galactic cannibalism" is still
+ongoing and is very apparent within our own Milky Way and the Andromeda
+galaxies. In this project, you will use state of the art numerical
+simulators to recreate the ongoing collisions and understand just how
+they are contributing to the build-up of galaxies.</small></li>
+        </ul>
+      </ul>
+      <br>
+Students within the Gravitational Astrophysics group are expected to
+publish several papers during their PhD research, and to produce a
+thesis "by-publication". This places them in an excellent position to
+obtain research positions within Australia and in the international
+community.<br>
+The Gravitational Astrophysics group provides a close-knit and friendly
+enviroment in which to undertake your PhD research. We look forward to
+hearing from you.</font><br>
+      <font color="#ffffff" face="arial" size="4"></font><font
+ color="#ffffff" face="arial" size="4">
+      <ul>
+      </ul>
+      </font> </td>
+    </tr>
+  </tbody>
+</table>
+<!--   footer   --> <br>
+<br>
+<br>
+<br>
+<br>
+</font>
+<center><font color="#ffffff" face="arial" size="3"> <font color="grey"
+ face="verdana,arial,sans-serif" size="2"> <b>Last Updated</b>:
+21/06/07<br>
+<b><i>site comments: cci_at_physics_dot_usyd_dot_edu_dot_au</i></b></font>
+</font></center>
+</body>
+</html>
