@@ -7,6 +7,9 @@
 Joseph is a PhD student. He is working on Buffalo data to constrain dark matter through strong gravitational lensing through the software Lenstool. He also probes theories of modified gravity. He additionally is interested in questioning the usual lensing approximations.
 
 * Lawrence Hou Dam:
+Lawrence is interested in cosmic flows, the effects of local cosmic environment
+on observations, and testing the LCDM model, such as the assumption of statistical homogeneity and isotropy.
+He is also broadly interested in astrostatistics.
 
 
 * Sonia Akter Ema:
@@ -25,6 +28,11 @@ Florian List is a PhD student focusing on computational astrophysics. His resear
 
 * Angela Ng:
 My research interests include all aspects of cosmology, gravitational and fundamental physics. The current focus of my research is using time delays from strong gravitational lensing to probe cosmology. More details about me can be found at my personal website. [ LINK alhn.carrd.co ]
+
+
+* William Oliver:
+William Oliver is a PhD student whose research is directed at analysing the dynamics of galactic substructure as a probe for galactic archaeology.
+He has experience applying a well-known hierarchical clustering algorithm called OPTICS in an astrophysical context, and has developed a post-process cluster extraction algorithm to retrieve appropriate substructure from galactic data sets. He has also begun to observe as part of various spectroscopic surveys.
 
 
 * Mathew Varidel:
